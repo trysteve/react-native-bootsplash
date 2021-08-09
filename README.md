@@ -1,3 +1,7 @@
+# :exclamation: :exclamation: :exclamation: Notes :exclamation: :exclamation: :exclamation:
+
+Whenever you change this lib, please commit `dist` folder
+
 # 🚀 react-native-bootsplash
 
 <a href="https://github.com/sponsors/zoontek">
