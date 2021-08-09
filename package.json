@@ -37,7 +37,7 @@
   ],
   "scripts": {
     "format": "prettier '**/*.{js,json,md,ts,tsx}' --write",
-    "postinstall": "bob build"
+    "build": "bob build"
   },
   "@react-native-community/bob": {
     "source": "src",
